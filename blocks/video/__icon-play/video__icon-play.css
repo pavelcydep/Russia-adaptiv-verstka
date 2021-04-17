@@ -1,0 +1,15 @@
+.video__icon-play
+{z-index: 3;
+    max-width: 41px;
+    margin-left:5.45%;
+    margin-top: 2.2vw;
+    margin-bottom: 4vw;
+color: white;
+}
+@media (max-width: 1024px) {
+  .video__icon-play {
+    
+   margin-left:6.45%;
+  }
+      
+}

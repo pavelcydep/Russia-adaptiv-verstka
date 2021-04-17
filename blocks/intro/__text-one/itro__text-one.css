@@ -1,0 +1,32 @@
+.intro__text-one{
+    
+   
+  margin-top: 0px;
+   margin-bottom: 0px;
+   font-family:'Inter', Arial, sans-serif;
+   font-style: normal;
+   font-weight: normal;
+   font-size: 14px;
+  line-height: 24px;
+ 
+    }
+    @media screen and (max-width : 375px){
+      .intro__text-one{
+          max-width : 343px;
+          font-size: 16px;
+          line-height: 169.43%;
+          box-sizing: border-box;
+  
+      }
+  
+  }
+  @media screen and (max-width : 320px){
+    .intro__text-one{
+        max-width : 288px;
+        font-size: 16px;
+        line-height: 169.43%;
+        box-sizing: border-box;
+
+    }
+
+}

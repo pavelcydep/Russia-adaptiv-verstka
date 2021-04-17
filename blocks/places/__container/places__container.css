@@ -1,0 +1,19 @@
+.places__container{
+  display: grid;
+   
+   margin-bottom: 72px;
+}
+@media  (max-width : 768px)  {
+  .places__container{
+ margin-bottom: 81px;
+  
+}
+
+}
+@media  (max-width : 425px)  {
+  .places__container{
+ margin-bottom: 38px;
+  
+}
+
+}

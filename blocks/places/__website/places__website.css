@@ -1,0 +1,15 @@
+@import url(./_bottom/places__website_bottom.css);
+.places__website{
+    display: flex;
+    flex-direction: column;
+   
+  
+text-decoration: none;
+
+
+
+}
+@media  (max-width : 425px) {
+    .places__website{
+ display: none;}
+    }

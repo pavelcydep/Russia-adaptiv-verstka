@@ -1,0 +1,40 @@
+.intro__item{
+    display: flex;
+    flex-direction:row;
+    width: auto;
+    font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 20px;
+}
+@media screen {
+    .intro__item {
+      max-width:985px ;
+    }
+  
+  }
+  @media screen and (max-width : 1024px) and (min-width : 720px){
+    .intro__item{
+    max-width :928px ;}
+  }
+  
+  
+  
+  @media screen and (max-width : 768px) and (min-width : 425px) {
+    .intro__item{
+    max-width:768px ;
+  
+  }
+  
+  }
+  
+  
+  @media screen and (max-width : 425px) {
+    .intro__item{
+      max-width :343px ;
+      font-size: 12px;
+      line-height: 19px;}
+    }
+
+

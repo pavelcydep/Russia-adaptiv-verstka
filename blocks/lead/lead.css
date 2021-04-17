@@ -1,0 +1,69 @@
+@import url(./__caption/lead__caption.css);
+@import url(./__image/lead__image.css);
+@import url(./__title/lead__title.css);
+@import url(./__subtitle/lead__subtitle.css);
+
+
+.lead{
+  max-width:985px;
+    display: flex;
+margin-left: auto;
+margin-right: auto;
+flex-direction: column;
+margin-top:48px ;
+
+}
+@media (max-width : 1440px)  {
+    .lead {
+      max-width:985px ;
+  
+    }
+  
+  }
+  @media (max-width : 1024px) {
+    .lead{
+    max-width :928px ;
+  
+  }
+  }
+  
+  
+  
+  @media  (max-width : 768px)  {
+    .lead{
+    max-width:768px ;
+    margin-left: 0;
+    margin-right: 0;
+  
+  }
+  
+  }
+  
+  
+
+    
+     
+    
+    @media  (max-width : 375px) {
+      .lead{
+        max-width :391px ;
+       
+      }
+      
+       
+      }
+      @media  (max-width : 320px) {
+        .lead{
+          max-width :320px ;
+         
+        }
+        
+         
+        }
+        
+        
+
+
+    
+
+

@@ -1,0 +1,70 @@
+
+@import url(./__subtitle/cover__subtitle.css);
+@import url(./__title/cover__title.css);
+@import url(./__image/cover__image.css);
+@import url(./__link/cover__link.css);
+
+.cover{
+
+
+  max-width: 1184px;
+  min-height: 594px;
+ margin-left: auto;
+ margin-right: auto;
+ 
+margin-bottom: 41px;
+  border-radius: 5px;
+  position: relative;
+  object-fit: contain;
+  overflow: hidden;
+
+}
+.cover::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transition: background-color .5s ease;}
+  .cover:hover:before {
+      background-color:rgba(0, 0, 0, .8);
+  }
+      
+        
+        
+        @media screen and (max-width : 1024px) {
+          .cover{
+          max-width :1045px ;
+          min-height: auto;
+        }
+        }
+        
+        
+        
+        @media (max-width : 768px)  {
+          .cover{
+          max-width:768px ;
+          min-height: auto;
+        }
+        
+        }
+        @media  (max-width : 425px) {
+          .cover{
+            max-width :425px ;
+            min-height: auto
+          }
+          }
+        
+        @media  (max-width : 375px) {
+          .cover{
+            max-width :375px ;
+            min-height: 272px;
+          }
+          }
+          @media  (max-width : 375px) {
+            .cover{
+              max-width :375px ;
+              min-height: 216px;
+            }
+            }

@@ -1,0 +1,53 @@
+.comments__quote{
+    font-family:'Inter', Arial, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+margin-left: auto;
+margin-right: auto;
+text-align: left;
+margin-bottom: 11px;
+
+}
+@media screen {
+    .comments__quote {
+      max-width:382px ;
+
+    }
+  
+  }
+  @media  (max-width : 1024px) {
+    .comments__quote{
+    max-width :296px ;}
+  }
+  
+  
+  
+  @media  (max-width : 768px)  {
+    .comments__quote{
+    max-width:382px ;
+    text-align: left;
+    grid-area: 1fr;
+    margin-top: 0;
+    font-size: 17px;
+    margin-bottom: 50px;
+  }
+  
+  }
+  @media  (max-width : 375px)  {
+    .comments__quote{
+    max-width:343px ;
+    text-align: center;
+  }
+  
+  }
+  
+  @media  (max-width : 320px)  {
+    .comments__quote{
+    max-width:288px ;
+    text-align: center;
+  }
+  
+  }
+ 

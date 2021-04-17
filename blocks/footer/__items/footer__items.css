@@ -1,0 +1,19 @@
+.footer__items{
+    display: flex;
+    flex-direction: row;
+ 
+}
+
+
+    
+    
+    
+
+@media  (max-width : 425px) {
+    .footer__items{
+     
+   display: flex;
+   flex-direction: column;
+    }
+    
+    }

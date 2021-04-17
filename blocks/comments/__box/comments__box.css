@@ -1,0 +1,13 @@
+.comments__box{
+    display:flex;
+    flex-direction: column;
+    
+}
+@media  (max-width : 768px)  {
+    .comments__box{
+    max-width:382px ;
+   flex-direction: column-reverse;
+   align-content: center;
+
+}
+}

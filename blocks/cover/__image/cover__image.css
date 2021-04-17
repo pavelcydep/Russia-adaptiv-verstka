@@ -1,0 +1,57 @@
+.cover__image{
+    width: 100%;
+    
+    
+    
+        z-index: -1;
+       
+       object-fit: cover;
+     
+      }
+
+
+@media screen {
+    .cover__image {
+      max-width:1184px ;
+      min-height: 594px;
+    }
+  
+  }
+  @media screen and (max-width : 1024px) {
+    .cover__image{
+    max-width :1045px ;
+    min-height: 562px;
+  }
+  }
+  
+  
+  
+  @media screen and (max-width : 768px)  {
+    .cover__image{
+    max-width:768px ;
+    min-height: 500px;
+  
+  }
+  
+  
+  @media screen and (max-width : 425px) {
+    .cover__image{
+      max-width :425px;
+    min-height: 272px;}
+     
+    }
+  }
+
+  @media screen and (max-width : 375px) {
+    .cover__image{
+      max-width :375px;
+    min-height: 272px;}
+     
+    }
+    @media screen and (max-width : 320px) {
+      .cover__image{
+        max-width :320px;
+      min-height: 216px;}
+       
+      }
+    

@@ -1,0 +1,13 @@
+@import url(./_active/header__item_active.css);
+.header__item{
+
+    margin-right: 18px;
+}
+
+    .header__lang:last-of-type{
+        margin-right:0;  
+    }
+
+
+
+
