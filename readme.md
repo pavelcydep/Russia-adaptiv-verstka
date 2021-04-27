@@ -1,7 +1,7 @@
 # Russia-trip
 Yandex Praktikum project about trip through Russia
 
-[Ссылка на проект]()
+[Ссылка на проект](https://pavelcydep.github.io/Russia-adaptiv-verstka/)
 
 ## Учебный проект, в котором реализованы: 
 - разметка
