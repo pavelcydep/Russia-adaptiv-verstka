@@ -6,8 +6,7 @@
 [Ссылка на проект](https://pavelcydep.github.io/Russia-adaptiv-verstka/)
 
 ## Стек:
-- HTML
-- CSS
+![](htmlcss.png)
 
 ## Инструкции по запуску:
 - клонировать репозиторий
