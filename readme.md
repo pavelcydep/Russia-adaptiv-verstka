@@ -1,4 +1,4 @@
-[alt text](bloggif_608a87003737b.gif)
+![alt text](bloggif_608a87003737b.gif)
 # Russia-trip
 Проект Яндекс Практикум о путешествии по Россиие
 
