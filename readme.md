@@ -1,4 +1,4 @@
-# Russia-trip![alt text]()
+# Russia-trip![alt text](bloggif_608a87003737b.gif)
 Проект Яндекс Практикум о путешествии по Россиие
 
 [Ссылка на проект](https://pavelcydep.github.io/Russia-adaptiv-verstka/)
