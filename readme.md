@@ -2,11 +2,12 @@
 Проект Яндекс Практикум о путешествии по Россииё
 
 [Ссылка на проект](https://pavelcydep.github.io/Russia-adaptiv-verstka/)
+![alt text](bloggif_608a7fabd4d03.gif)
 
 ## Учебный проект, в котором реализованы: 
 - разметка
 - адаптивная верстка для разрешений от 320 до 1440 пикселей
-![alt text](bloggif_608a7fabd4d03.gif)
+
 ## Стек:
 - HTML
 - CSS
