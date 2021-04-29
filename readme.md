@@ -1,9 +1,10 @@
-# Russia-trip![alt text](bloggif_608a87003737b.gif)
+[alt text](bloggif_608a87003737b.gif)
+# Russia-trip
 Проект Яндекс Практикум о путешествии по Россиие
 
 [Ссылка на проект](https://pavelcydep.github.io/Russia-adaptiv-verstka/)
 
-![alt text](bloggif_608a7fabd4d03.gif)
+
 
 ## Учебный проект, в котором реализованы: 
 - разметка
