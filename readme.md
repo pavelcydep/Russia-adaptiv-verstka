@@ -1,5 +1,5 @@
 # Russia-trip
-Yandex Praktikum project about trip through Russia
+Проект Яндекс Практикум о путешествии по Россииё
 
 [Ссылка на проект](https://pavelcydep.github.io/Russia-adaptiv-verstka/)
 
